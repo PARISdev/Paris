@@ -1,0 +1,9 @@
+Building PARIS
+
+See doc/readme-qt.rst for instructions on building PARIS QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PARIS.
+
+See doc/build-*.txt for instructions on building PARISd,
+the intended-for-services, no-graphical-interface, reference
+implementation of PARIS.
